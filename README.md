@@ -83,7 +83,7 @@ The repository includes:
 ---
 
 ## 🧑‍💻 Author
-Lokesh
+Lokesh A
 
 ---
 
