@@ -69,7 +69,12 @@ The repository includes:
 ---
 
 ## 📸 Images
-(Add PCB images, schematic screenshots here)
+## TRANSMITTER SIDE
+<img width="503" height="545" alt="image" src="https://github.com/user-attachments/assets/283c9440-5fb8-40e5-95d9-b0ece80aa8ee" />
+<img width="366" height="372" alt="image" src="https://github.com/user-attachments/assets/87fbb8d5-3b8b-4022-b583-62912ac32357" />
+## RECEIVER SIDE
+<img width="534" height="517" alt="image" src="https://github.com/user-attachments/assets/31ed959d-95c8-4114-8db4-801d6d5fbcaf" />
+<img width="402" height="384" alt="image" src="https://github.com/user-attachments/assets/e47b427a-1c24-4795-bdab-83f0faec0fea" />
 
 ---
 
